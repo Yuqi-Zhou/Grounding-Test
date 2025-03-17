@@ -1,0 +1,5032 @@
+[
+    {
+        "image": "mobile_domain/UIBert/25980.jpg",
+        "problem": "click on the icon on the right side of ",
+        "solution": [
+            0.26,
+            0.869,
+            0.518,
+            0.934
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/camera/screen_1.png",
+        "problem": "Select an option to change the image view.",
+        "solution": [
+            0.8760416666666667,
+            0.34444444444444444,
+            0.959375,
+            0.36666666666666664
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/39569.jpg",
+        "problem": "click the profile icon in the fifth block",
+        "solution": [
+            0.037,
+            0.683,
+            0.134,
+            0.738
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image408.png",
+        "problem": "This element provides access to support resources and information.",
+        "solution": [
+            0.78487548828125,
+            0.09722222222222222,
+            0.80206298828125,
+            0.15833333333333333
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image669.png",
+        "problem": "This element serves as a navigation tool, directing users to a section of the webpage that provides an explanation of how Google Merchant Center works.",
+        "solution": [
+            0.252178955078125,
+            0.011111111111111112,
+            0.349560546875,
+            0.07777777777777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/vlc/screen_1.png",
+        "problem": "Located in the dropdown menu right side of the screen.",
+        "solution": [
+            0.8677083333333333,
+            0.14722222222222223,
+            0.9734375,
+            0.16666666666666666
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_5.png",
+        "problem": "Positioned in the third row, fourth column.",
+        "solution": [
+            0.0008928571428571428,
+            0.2557142857142857,
+            0.11785714285714285,
+            0.2795238095238095
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/6145.jpg",
+        "problem": "click on the fourth option",
+        "solution": [
+            0.02,
+            0.659,
+            0.187,
+            0.78
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/35005.jpg",
+        "problem": "go to third image from bottom",
+        "solution": [
+            0.139,
+            0.646,
+            0.249,
+            0.707
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image147.png",
+        "problem": "This element navigates to a collection of posts or stories related to a specific month.",
+        "solution": [
+            0.721240234375,
+            0.7050347222222222,
+            0.754559326171875,
+            0.7258680555555556
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/63283.jpg",
+        "problem": "click on the second image from the bottom left",
+        "solution": [
+            0.587,
+            0.688,
+            0.848,
+            0.783
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/66153.jpg",
+        "problem": "go to the icon in ninth option",
+        "solution": [
+            0.039,
+            0.553,
+            0.111,
+            0.594
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/reminder/screen_1.png",
+        "problem": "Add or adjust details for Viva event.",
+        "solution": [
+            0.20520833333333333,
+            0.8483333333333334,
+            0.21979166666666666,
+            0.8711111111111111
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image898.png",
+        "problem": "This element provides an entry point to explore the organization's offerings and resources.",
+        "solution": [
+            0.878851318359375,
+            0.0,
+            0.9388671875,
+            0.05098741319444444
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/48292.jpg",
+        "problem": "9",
+        "solution": [
+            0.647,
+            0.664,
+            0.942,
+            0.746
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/stocks/screen_2.png",
+        "problem": "Read about the upcoming iPhone 15's expected features.",
+        "solution": [
+            0.7381944444444445,
+            0.6561111111111111,
+            0.953125,
+            0.82
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/57170.jpg",
+        "problem": "select the time 630 pm",
+        "solution": [
+            0.505,
+            0.485,
+            0.892,
+            0.544
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/44115.jpg",
+        "problem": "select 3",
+        "solution": [
+            0.669,
+            0.443,
+            1.0,
+            0.565
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/25387.jpg",
+        "problem": "click on the button which is next to the 24h",
+        "solution": [
+            0.819,
+            0.226,
+            0.949,
+            0.271
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/7221.jpg",
+        "problem": "choose the download icon on top right of page",
+        "solution": [
+            0.885,
+            0.089,
+            0.976,
+            0.127
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/55600.jpg",
+        "problem": "click on the color between white and red at the left side bottom of the page",
+        "solution": [
+            0.1,
+            0.853,
+            0.2,
+            0.893
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/29719.jpg",
+        "problem": "select the option which is above home button",
+        "solution": [
+            0.416,
+            0.859,
+            0.568,
+            0.928
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/12098.jpg",
+        "problem": "the icon left to about",
+        "solution": [
+            0.039,
+            0.803,
+            0.097,
+            0.86
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image841.png",
+        "problem": "This element serves as a container for additional menu options, acting as a trigger for a dropdown menu when interacted with. Users can expect to find more menu items or options within the dropdown menu once this element is activated.",
+        "solution": [
+            0.920928955078125,
+            0.0,
+            0.99921875,
+            0.0625
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/grammarly/screen_2.png",
+        "problem": "Positioned below 'Overall score 50.'",
+        "solution": [
+            0.8755208333333333,
+            0.21203703703703702,
+            0.9796875,
+            0.2898148148148148
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/9692.jpg",
+        "problem": "select the last button in the page",
+        "solution": [
+            0.039,
+            0.774,
+            0.175,
+            0.84
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image409.png",
+        "problem": "This element allows users to exclude a specific media type from their search results.",
+        "solution": [
+            0.02421875,
+            0.8231987847222222,
+            0.0359375,
+            0.8440321180555556
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image862.png",
+        "problem": "This element provides access to the main Microsoft website or portal, allowing users to explore the company's broader range of products and services beyond Outlook.",
+        "solution": [
+            0.0494140625,
+            0.001388888888888889,
+            0.1564453125,
+            0.0763888888888889
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/37680.jpg",
+        "problem": "select the image meenakashi singh below the aarushi jain",
+        "solution": [
+            0.346,
+            0.487,
+            0.655,
+            0.66
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/18116.jpg",
+        "problem": "click on the icon which is at top right of the fourth image",
+        "solution": [
+            0.907,
+            0.164,
+            0.985,
+            0.208
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/text_editor/screen_3.png",
+        "problem": "Whitespace area with default text editor background color.",
+        "solution": [
+            0.23645833333333333,
+            0.31851851851851853,
+            0.24166666666666667,
+            0.33611111111111114
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/37603.jpg",
+        "problem": "go to second image from bottom",
+        "solution": [
+            0.039,
+            0.593,
+            0.294,
+            0.701
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/11869.jpg",
+        "problem": "click on the icon beside contacts",
+        "solution": [
+            0.098,
+            0.601,
+            0.176,
+            0.645
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/system_preferences/screen_2.png",
+        "problem": "Located above the 'Random order' checkbox.",
+        "solution": [
+            0.3614583333333333,
+            0.6388888888888888,
+            0.371875,
+            0.6555555555555556
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/62046.jpg",
+        "problem": "go to the top right corner icon",
+        "solution": [
+            0.883,
+            0.033,
+            1.0,
+            0.098
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_4.png",
+        "problem": "Play the song 'Mere Liye Tum Kaafi' from the list.",
+        "solution": [
+            0.8235119047619047,
+            0.5290476190476191,
+            0.9949404761904762,
+            0.5842857142857143
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/29592.jpg",
+        "problem": "go to timer icon at bottom left of page",
+        "solution": [
+            0.039,
+            0.766,
+            0.078,
+            0.788
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/message/screen_1.png",
+        "problem": "Blue text bubble with white text inside.",
+        "solution": [
+            0.8985119047619048,
+            0.6266666666666667,
+            0.9892857142857143,
+            0.6495238095238095
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/1593.jpg",
+        "problem": "select symbol above explore",
+        "solution": [
+            0.346,
+            0.858,
+            0.405,
+            0.902
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/terminal/screen_1.png",
+        "problem": "Black text cursor on terminal background.",
+        "solution": [
+            0.1880952380952381,
+            0.09523809523809523,
+            1.0,
+            0.10666666666666667
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_2.png",
+        "problem": "A small rectangular card with '29 km' in white on a blue background.",
+        "solution": [
+            0.6934523809523809,
+            0.6957142857142857,
+            0.7818452380952381,
+            0.8347619047619048
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image887.png",
+        "problem": "This element provides access to personal profile management features.",
+        "solution": [
+            0.166278076171875,
+            0.7535807291666666,
+            0.187109375,
+            0.7887586805555555
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/61469.jpg",
+        "problem": "click the icon right side of install now",
+        "solution": [
+            0.956,
+            0.115,
+            0.991,
+            0.134
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/55624.jpg",
+        "problem": "select the save icon on top right hand side",
+        "solution": [
+            0.865,
+            0.041,
+            0.981,
+            0.101
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image318.png",
+        "problem": "This element initiates the user's signup process by guiding them to the subsequent steps after providing their email address.",
+        "solution": [
+            0.87802734375,
+            0.022222222222222223,
+            0.96953125,
+            0.07777777777777778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/28760.jpg",
+        "problem": "go to the icon which is just below the ksql",
+        "solution": [
+            0.602,
+            0.732,
+            1.0,
+            0.8
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calendar/screen_1.png",
+        "problem": "A small calendar displaying January dates, with a highlighted circle around day 5.",
+        "solution": [
+            0.03159722222222222,
+            0.011111111111111112,
+            0.04375,
+            0.03166666666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/49374.jpg",
+        "problem": "click on the coupons icon",
+        "solution": [
+            0.024,
+            0.699,
+            0.097,
+            0.74
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_2.png",
+        "problem": "Below 'Downloads', above 'Pic_1'.",
+        "solution": [
+            0.10892857142857143,
+            0.13952380952380952,
+            0.11904761904761904,
+            0.15476190476190477
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/45996.jpg",
+        "problem": "click on icon in second option from bottom",
+        "solution": [
+            0.058,
+            0.816,
+            0.175,
+            0.881
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/preview/screen_1.png",
+        "problem": "Positioned at the top of the screen.",
+        "solution": [
+            0.24097222222222223,
+            0.007222222222222222,
+            0.28194444444444444,
+            0.021666666666666667
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/preview/screen_1.png",
+        "problem": "Located on the far-right edge of the window.",
+        "solution": [
+            0.0045138888888888885,
+            0.08166666666666667,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_4.png",
+        "problem": "A small row with song title and artist names to the right.",
+        "solution": [
+            0.8235119047619047,
+            0.5290476190476191,
+            0.9949404761904762,
+            0.5842857142857143
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_desktop/screen_1.png",
+        "problem": "Positioned at the top right corner of the menu.",
+        "solution": [
+            0.9708333333333333,
+            0.08703703703703704,
+            0.978125,
+            0.10555555555555556
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/47108.jpg",
+        "problem": "select the text input field which is below the last name",
+        "solution": [
+            0.061,
+            0.666,
+            0.939,
+            0.695
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/16436.jpg",
+        "problem": "click the 3 vertical dots at top right corner",
+        "solution": [
+            0.874,
+            0.041,
+            0.981,
+            0.101
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/43369.jpg",
+        "problem": "the second   symbol at the right side of the page",
+        "solution": [
+            0.841,
+            0.69,
+            0.939,
+            0.747
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/stocks/screen_2.png",
+        "problem": "View Apple Inc.'s 10-year stock performance.",
+        "solution": [
+            0.8701388888888889,
+            0.20444444444444446,
+            0.8923611111111112,
+            0.23222222222222222
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/62348.jpg",
+        "problem": "click the find a branch",
+        "solution": [
+            0.904,
+            0.383,
+            0.966,
+            0.421
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image451.png",
+        "problem": "This element provides access to a submenu of related products and categories, allowing users to explore and navigate within a specific product line.",
+        "solution": [
+            0.542108154296875,
+            0.09722222222222222,
+            0.559295654296875,
+            0.15833333333333333
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image662.png",
+        "problem": "This element provides access to a related Yandex service, allowing users to explore and utilize its features.",
+        "solution": [
+            0.0375,
+            0.7888888888888889,
+            0.17265625,
+            0.8125
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/65542.jpg",
+        "problem": "text called phone ringing",
+        "solution": [
+            0.675,
+            0.323,
+            0.991,
+            0.359
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image977.png",
+        "problem": "This element provides a gateway to explore a specific theme or category of images, allowing users to dive deeper into their topic of interest.",
+        "solution": [
+            0.408203125,
+            0.45,
+            0.580078125,
+            0.6027777777777777
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/expedia/screen_1.png",
+        "problem": "The element positioned to the right of 'Flights'.",
+        "solution": [
+            0.33993055555555557,
+            0.1738888888888889,
+            0.6607638888888889,
+            0.24833333333333332
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image919.png",
+        "problem": "This element provides access to a user's account, allowing them to manage their existing website or services.",
+        "solution": [
+            0.871124267578125,
+            0.030555555555555555,
+            0.92578125,
+            0.08055555555555556
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/mail/screen_1.png",
+        "problem": "A gray icon with a box and a down arrow.",
+        "solution": [
+            0.5663194444444445,
+            0.012222222222222223,
+            0.5895833333333333,
+            0.04611111111111111
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image2.png",
+        "problem": "This element provides access to a specific blog post or article content.",
+        "solution": [
+            0.1,
+            0.5103298611111111,
+            0.2952880859375,
+            0.5644965277777778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/1530.jpg",
+        "problem": "go to above menu",
+        "solution": [
+            0.03,
+            0.044,
+            0.107,
+            0.087
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_5.png",
+        "problem": "White text on a green background with a shopping bag icon.",
+        "solution": [
+            0.003273809523809524,
+            0.3423809523809524,
+            0.1130952380952381,
+            0.3647619047619048
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image463.png",
+        "problem": "This element triggers the creation of a new server within the Gandi Cloud service, allowing users to host their web applications or businesses in a cloud-computing environment.",
+        "solution": [
+            0.361328125,
+            0.97138671875,
+            0.465130615234375,
+            0.9936089409722222
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image389.png",
+        "problem": "This element enables users to search for specific information or ask questions related to contracts and agreements.",
+        "solution": [
+            0.138671875,
+            0.21666666666666667,
+            0.806640625,
+            0.24513888888888888
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/37675.jpg",
+        "problem": "select the size option which says 10",
+        "solution": [
+            0.681,
+            0.626,
+            0.808,
+            0.697
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image575.png",
+        "problem": "This element directs users to a dedicated platform for eBay sellers to discover and register for online and in-person events, facilitating business growth and community building.",
+        "solution": [
+            0.494140625,
+            0.21791449652777778,
+            0.951171875,
+            0.6929144965277778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/camera/screen_2.png",
+        "problem": "Gray rectangular button with text 'Fullscreen'.",
+        "solution": [
+            0.9442708333333333,
+            0.8675925925925926,
+            0.9786458333333333,
+            0.8981481481481481
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image226.png",
+        "problem": "This element displays a visual representation of the video channel or uploader.",
+        "solution": [
+            0.453125,
+            0.6616319444444444,
+            0.4875,
+            0.7282986111111112
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/52235.jpg",
+        "problem": "text above the text bay city mi",
+        "solution": [
+            0.211,
+            0.798,
+            0.422,
+            0.866
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_calendar/screen_1.png",
+        "problem": "A toggle switch labeled 'Try the new Outlook.'",
+        "solution": [
+            0.8697916666666666,
+            0.04537037037037037,
+            0.8994791666666667,
+            0.08425925925925926
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/66435.jpg",
+        "problem": "click on the button which is above the support",
+        "solution": [
+            0.024,
+            0.685,
+            1.0,
+            0.711
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/mail/screen_2.png",
+        "problem": "Reply to the selected email from inbox.",
+        "solution": [
+            0.44375,
+            0.012222222222222223,
+            0.4621527777777778,
+            0.050555555555555555
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/camera/screen_2.png",
+        "problem": "Positioned below the 'Fullscreen' option.",
+        "solution": [
+            0.9442708333333333,
+            0.8675925925925926,
+            0.9786458333333333,
+            0.8981481481481481
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/64071.jpg",
+        "problem": "select the fred meyer jewelers icon",
+        "solution": [
+            0.039,
+            0.784,
+            0.087,
+            0.812
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/32308.jpg",
+        "problem": "select the tv option  programming  tech",
+        "solution": [
+            0.061,
+            0.72,
+            0.191,
+            0.793
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/17668.jpg",
+        "problem": "go to wifi button",
+        "solution": [
+            0.261,
+            0.372,
+            0.739,
+            0.556
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "Open the 'All' folder.",
+        "solution": [
+            0.059821428571428574,
+            0.0014285714285714286,
+            0.08333333333333333,
+            0.022857142857142857
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_files/screen_1.png",
+        "problem": "Open additional file management options.",
+        "solution": [
+            0.049479166666666664,
+            0.000925925925925926,
+            0.09895833333333333,
+            0.025925925925925925
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_4.png",
+        "problem": "Adjust the screen brightness.",
+        "solution": [
+            0.8336309523809524,
+            0.2019047619047619,
+            0.8508928571428571,
+            0.22047619047619046
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/57710.jpg",
+        "problem": "click on icon at the bottom left corner",
+        "solution": [
+            0.01,
+            0.814,
+            0.166,
+            0.901
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/6053.jpg",
+        "problem": "click on icon next to sponsored at top right corner of the page",
+        "solution": [
+            0.963,
+            0.184,
+            1.0,
+            0.205
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image483.png",
+        "problem": "This element provides access to a specific discussion thread or post within the community, allowing users to engage with the content and potentially participate in the conversation.",
+        "solution": [
+            0.169921875,
+            0.8097222222222222,
+            0.818359375,
+            0.9236111111111112
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image818.png",
+        "problem": "This element provides a shortcut to access software-related content or resources on the webpage.",
+        "solution": [
+            0.401947021484375,
+            0.0,
+            0.498187255859375,
+            0.06944444444444445
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image671.png",
+        "problem": "This element provides access to the main or homepage content of the 0x40 Hues community.",
+        "solution": [
+            0.041015625,
+            0.07222222222222222,
+            0.280084228515625,
+            0.12013888888888889
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image235.png",
+        "problem": "This element provides access to a specific method's documentation, allowing users to learn more about its purpose and usage within the context of the `StyleSheet` interface.",
+        "solution": [
+            0.120355224609375,
+            0.7442057291666667,
+            0.1631591796875,
+            0.7650390625
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/16826.jpg",
+        "problem": "select the image above instant personal loanapply now text",
+        "solution": [
+            0.669,
+            0.639,
+            0.971,
+            0.707
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "Open the Finder application.",
+        "solution": [
+            0.022916666666666665,
+            0.94,
+            0.05505952380952381,
+            0.9928571428571429
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image175.png",
+        "problem": "This element initiates the account registration process for users, allowing them to create a new account on the platform.",
+        "solution": [
+            0.73822021484375,
+            0.0,
+            0.810137939453125,
+            0.1
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/64852.jpg",
+        "problem": "select reading list",
+        "solution": [
+            0.783,
+            0.113,
+            1.0,
+            0.139
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/69622.jpg",
+        "problem": "click on the icon which is left hand side of the text shopping",
+        "solution": [
+            0.061,
+            0.803,
+            0.1,
+            0.824
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_5.png",
+        "problem": "A beige rectangular book cover with the title 'More Songs of Kabir' in black.",
+        "solution": [
+            0.8056547619047619,
+            0.44666666666666666,
+            0.8377976190476191,
+            0.4766666666666667
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/audible/screen_1.png",
+        "problem": "Minimize the current window.",
+        "solution": [
+            0.9447628973423658,
+            0.025,
+            0.9640437727983324,
+            0.06111111111111111
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/34433.jpg",
+        "problem": "click on the 3 vertical dots below 1114",
+        "solution": [
+            0.904,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_store/screen_3.png",
+        "problem": "Rectangular element with Intel® logo and text 'Graphics Command Center'.",
+        "solution": [
+            0.9473958333333333,
+            0.9009259259259259,
+            0.9692708333333333,
+            0.9351851851851852
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image290.png",
+        "problem": "This element provides access to information about managing domain contacts.",
+        "solution": [
+            0.330078125,
+            0.6491644965277777,
+            0.578070068359375,
+            0.67138671875
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/spotify/screen_3.png",
+        "problem": "A dark circular button with a heart icon in white.",
+        "solution": [
+            0.30104166666666665,
+            0.2851851851851852,
+            0.334375,
+            0.3416666666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/65117.jpg",
+        "problem": "click on icon which is right to text 5 off your first purchase",
+        "solution": [
+            0.852,
+            0.142,
+            0.942,
+            0.163
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/8272.jpg",
+        "problem": "select the 3 vertical dots icon",
+        "solution": [
+            0.864,
+            0.335,
+            0.961,
+            0.401
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image906.png",
+        "problem": "This element triggers a list of related videos or actions for the user to explore beyond the currently displayed video content.",
+        "solution": [
+            0.6078125,
+            0.7994791666666666,
+            0.6359375,
+            0.8494791666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/28437.jpg",
+        "problem": "click the third volume symbol",
+        "solution": [
+            0.03,
+            0.634,
+            0.136,
+            0.678
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/55270.jpg",
+        "problem": "select the info icon",
+        "solution": [
+            0.156,
+            0.115,
+            0.19,
+            0.134
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_5.png",
+        "problem": "more_grammar_of_english_tongue",
+        "solution": [
+            0.9464285714285714,
+            0.4461904761904762,
+            0.9785714285714285,
+            0.47619047619047616
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/55304.jpg",
+        "problem": "click on the image beside nightly news full broadcast at the bottom of the page",
+        "solution": [
+            0.019,
+            0.576,
+            0.311,
+            0.74
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/reminder/screen_1.png",
+        "problem": "\"Viva\" text underlined with bold date next to circular checkbox.",
+        "solution": [
+            0.20520833333333333,
+            0.8483333333333334,
+            0.21979166666666666,
+            0.8711111111111111
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_4.png",
+        "problem": "play_mere_liye_tum_kaafi",
+        "solution": [
+            0.8235119047619047,
+            0.5290476190476191,
+            0.9949404761904762,
+            0.5842857142857143
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_5.png",
+        "problem": "Located below the Pop and right of Piano Chill playlists.",
+        "solution": [
+            0.5619047619047619,
+            0.6266666666666667,
+            0.6982142857142857,
+            0.8771428571428571
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/50153.jpg",
+        "problem": "click on the eight arrow from top",
+        "solution": [
+            0.948,
+            0.757,
+            0.98,
+            0.774
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image594.png",
+        "problem": "This element allows users to view or interact with a specific social media post or testimonial related to career coaching or job hunting.",
+        "solution": [
+            0.4015625,
+            0.5270833333333333,
+            0.5859375,
+            0.7284613715277778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/37785.jpg",
+        "problem": "click on the icon below son",
+        "solution": [
+            0.469,
+            0.802,
+            0.538,
+            0.84
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image139.png",
+        "problem": "This element invites users to explore a volunteer opportunity, likely leading to a registration or information page.",
+        "solution": [
+            0.259765625,
+            0.22697482638888888,
+            0.728515625,
+            0.2721137152777778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/56377.jpg",
+        "problem": "select the settings icon",
+        "solution": [
+            0.011,
+            0.886,
+            0.072,
+            0.921
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/10644.jpg",
+        "problem": "select the first thumbnail",
+        "solution": [
+            0.02,
+            0.188,
+            0.981,
+            0.652
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/52924.jpg",
+        "problem": "click on mini image which is  above crybabies",
+        "solution": [
+            0.438,
+            0.713,
+            0.535,
+            0.768
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/vlc/screen_1.png",
+        "problem": "A dropdown menu with white background and various text options.",
+        "solution": [
+            0.86875,
+            0.35185185185185186,
+            0.9760416666666667,
+            0.3731481481481482
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/40658.jpg",
+        "problem": "select the symbol which is to the immediate left of cart symbol",
+        "solution": [
+            0.796,
+            0.055,
+            0.854,
+            0.087
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image772.png",
+        "problem": "This element provides access to information about a specific Adobe service or product.",
+        "solution": [
+            0.408740234375,
+            0.8455512152777778,
+            0.575439453125,
+            0.8858289930555555
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_5.png",
+        "problem": "Search playlists in Apple Music.",
+        "solution": [
+            0.006547619047619048,
+            0.060476190476190475,
+            0.1113095238095238,
+            0.08666666666666667
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/photos/screen_1.png",
+        "problem": "View details of the Bora Bora image.",
+        "solution": [
+            0.3044642857142857,
+            0.6895238095238095,
+            0.4773809523809524,
+            0.9766666666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/10805.jpg",
+        "problem": "click the icon at left side of the heroes of the storm",
+        "solution": [
+            0.039,
+            0.854,
+            0.136,
+            0.909
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_todo/screen_2.png",
+        "problem": "View all list items.",
+        "solution": [
+            0.4239583333333333,
+            0.03148148148148148,
+            0.4864583333333333,
+            0.06018518518518518
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image267.png",
+        "problem": "This element provides access to the user's account, allowing them to log in and manage their eBay services.",
+        "solution": [
+            0.02734375,
+            0.011111111111111112,
+            0.056011962890625,
+            0.029861111111111113
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "Open the folder named 'All'.",
+        "solution": [
+            0.9110119047619047,
+            0.0004761904761904762,
+            0.9964285714285714,
+            0.022857142857142857
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image988.png",
+        "problem": "This element provides access to a user's account and profile information, enabling them to manage their online presence and services.",
+        "solution": [
+            0.885565185546875,
+            0.0,
+            0.943743896484375,
+            0.06944444444444445
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calendar/screen_3.png",
+        "problem": "Located in the top right corner.",
+        "solution": [
+            0.978125,
+            0.057777777777777775,
+            0.990625,
+            0.08388888888888889
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/31745.jpg",
+        "problem": "select the text below the image",
+        "solution": [
+            0.037,
+            0.89,
+            0.244,
+            0.912
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/62242.jpg",
+        "problem": "click on the last image of the bottom left corner",
+        "solution": [
+            0.058,
+            0.882,
+            0.156,
+            0.934
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/camera/screen_1.png",
+        "problem": "print",
+        "solution": [
+            0.8776041666666666,
+            0.1675925925925926,
+            0.9609375,
+            0.18981481481481483
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image171.png",
+        "problem": "This element represents a non-textual interactive control, likely a button or icon, possibly used to perform an action such as liking, upvoting, or favoriting the Medium Terms of Service.",
+        "solution": [
+            0.234765625,
+            0.4387152777777778,
+            0.253515625,
+            0.4720486111111111
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/62348.jpg",
+        "problem": "click on the symbol next to help",
+        "solution": [
+            0.904,
+            0.448,
+            0.966,
+            0.486
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/20943.jpg",
+        "problem": "click on the explore icon",
+        "solution": [
+            0.623,
+            0.778,
+            0.732,
+            0.84
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/3415.jpg",
+        "problem": "click on the image beside yoga for weight loss",
+        "solution": [
+            0.01,
+            0.767,
+            0.156,
+            0.849
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image646.png",
+        "problem": "This element provides access to a repository's project management features, allowing users to organize and track their work.",
+        "solution": [
+            0.37281494140625,
+            0.1986111111111111,
+            0.44722900390625,
+            0.24027777777777778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/3323.jpg",
+        "problem": "click on the icon in the second row",
+        "solution": [
+            0.208,
+            0.78,
+            0.269,
+            0.815
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_4.png",
+        "problem": "White text '12PM' above a sun icon on dark blue.",
+        "solution": [
+            0.7895833333333333,
+            0.2523809523809524,
+            0.794345238095238,
+            0.46190476190476193
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/11148.jpg",
+        "problem": "click on the fifth plus icon from the bottom",
+        "solution": [
+            0.537,
+            0.598,
+            0.607,
+            0.66
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/camera/screen_2.png",
+        "problem": "A rectangular dropdown menu with light text on a dark background.",
+        "solution": [
+            0.8833333333333333,
+            0.16944444444444445,
+            0.9567708333333333,
+            0.19166666666666668
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/68920.jpg",
+        "problem": "click on second image from search buttontop",
+        "solution": [
+            0.663,
+            0.385,
+            0.989,
+            0.586
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "Top right corner of the screen.",
+        "solution": [
+            0.059821428571428574,
+            0.0014285714285714286,
+            0.08333333333333333,
+            0.022857142857142857
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_2.png",
+        "problem": "Check air quality index details.",
+        "solution": [
+            0.5038690476190476,
+            0.39,
+            0.687202380952381,
+            0.5290476190476191
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/26148.jpg",
+        "problem": "select the icon what app down below",
+        "solution": [
+            0.5,
+            0.873,
+            1.0,
+            0.934
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/12569.jpg",
+        "problem": "click on 8th image from the top",
+        "solution": [
+            0.338,
+            0.56,
+            0.664,
+            0.744
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/53447.jpg",
+        "problem": "click on the more option symbol beside search option",
+        "solution": [
+            0.883,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/51006.jpg",
+        "problem": "second red color star below the download button",
+        "solution": [
+            0.117,
+            0.773,
+            0.175,
+            0.806
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_files/screen_2.png",
+        "problem": "A dropdown menu with icons and text options on white background.",
+        "solution": [
+            0.8911458333333333,
+            0.032407407407407406,
+            0.9078125,
+            0.06111111111111111
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/47546.jpg",
+        "problem": "click on the icon above phone",
+        "solution": [
+            0.085,
+            0.869,
+            0.163,
+            0.913
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "slack_more_options",
+        "solution": [
+            0.025297619047619048,
+            0.0014285714285714286,
+            0.059821428571428574,
+            0.023809523809523808
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_4.png",
+        "problem": "sun_12pm",
+        "solution": [
+            0.7895833333333333,
+            0.2523809523809524,
+            0.794345238095238,
+            0.46190476190476193
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/61251.jpg",
+        "problem": "click on the boox which is below the numerical 1",
+        "solution": [
+            0.611,
+            0.311,
+            0.937,
+            0.494
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/67310.jpg",
+        "problem": "select the icon which is at the top right corner",
+        "solution": [
+            0.744,
+            0.039,
+            0.866,
+            0.107
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/57612.jpg",
+        "problem": "select the third switch on the right next to the button dhuhr on the web page",
+        "solution": [
+            0.726,
+            0.403,
+            0.843,
+            0.44
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_settings/screen_3.png",
+        "problem": "A white rectangle icon with a black horizontal line.",
+        "solution": [
+            0.9171875,
+            0.006481481481481481,
+            0.940625,
+            0.03518518518518519
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image773.png",
+        "problem": "This element directs users to a specific category within the community, providing access to relevant content and resources.",
+        "solution": [
+            0.228521728515625,
+            0.80263671875,
+            0.306646728515625,
+            0.9415256076388889
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/57612.jpg",
+        "problem": "click the 4th switch button from the top of the page",
+        "solution": [
+            0.726,
+            0.497,
+            0.843,
+            0.534
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/text_editor/screen_1.png",
+        "problem": "A dropdown menu with thin black text on a white background.",
+        "solution": [
+            0.9123630672926447,
+            0.028730305838739572,
+            0.9311424100156495,
+            0.060240963855421686
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/mail/screen_2.png",
+        "problem": "Located at the top right, slightly left of the emoji icon.",
+        "solution": [
+            0.9618055555555556,
+            0.012222222222222223,
+            0.9819444444444444,
+            0.04777777777777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "Open the 'All' folder.",
+        "solution": [
+            0.08333333333333333,
+            0.0004761904761904762,
+            0.1113095238095238,
+            0.022857142857142857
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/47112.jpg",
+        "problem": "select the  above the text  origin city",
+        "solution": [
+            0.233,
+            0.73,
+            0.256,
+            0.738
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/system_preferences/screen_3.png",
+        "problem": "A grey button labeled 'Restore Defaults' at the bottom right.",
+        "solution": [
+            0.315625,
+            0.09444444444444444,
+            0.3298611111111111,
+            0.12277777777777778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/49718.jpg",
+        "problem": "click on the second arrow from top",
+        "solution": [
+            0.879,
+            0.299,
+            0.927,
+            0.327
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/grammarly/screen_1.png",
+        "problem": "Located between 'is' correction and 'Correct your spelling'.",
+        "solution": [
+            0.5427083333333333,
+            0.6314814814814815,
+            0.84375,
+            0.6990740740740741
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/42734.jpg",
+        "problem": "it is clickable",
+        "solution": [
+            0.853,
+            0.105,
+            1.0,
+            0.134
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/maps/screen_1.png",
+        "problem": "A white label with the word 'share' and an icon next to it.",
+        "solution": [
+            0.9569444444444445,
+            0.006666666666666667,
+            0.9722222222222222,
+            0.03222222222222222
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_3.png",
+        "problem": "What does 'manzana' mean?",
+        "solution": [
+            0.34017857142857144,
+            0.8738095238095238,
+            0.3464285714285714,
+            0.9023809523809524
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_4.png",
+        "problem": "Enable 'Do Not Disturb' mode.",
+        "solution": [
+            0.9110119047619047,
+            0.03761904761904762,
+            0.9901785714285715,
+            0.09523809523809523
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image442.png",
+        "problem": "This element provides access to a specific set of code examples related to an AWS service.",
+        "solution": [
+            0.315386962890625,
+            0.6402777777777777,
+            0.43697509765625,
+            0.6652777777777777
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_todo/screen_1.png",
+        "problem": "Drag 'take pet to vet' to reorder.",
+        "solution": [
+            0.34270833333333334,
+            0.6314814814814815,
+            0.3536458333333333,
+            0.6611111111111111
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/news/screen_2.png",
+        "problem": "Read about canned meats for stocking your pantry.",
+        "solution": [
+            0.5461805555555556,
+            0.9033333333333333,
+            0.5673611111111111,
+            0.9277777777777778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/25387.jpg",
+        "problem": "the entity shown above 12h",
+        "solution": [
+            0.819,
+            0.142,
+            0.949,
+            0.187
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/68477.jpg",
+        "problem": "select the first row third image in the more stickers category",
+        "solution": [
+            0.661,
+            0.64,
+            0.961,
+            0.775
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/text_editor/screen_1.png",
+        "problem": "Above the text editor window, next to layout icons.",
+        "solution": [
+            0.8748043818466353,
+            0.03151065801668211,
+            0.908189880020866,
+            0.060240963855421686
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/grammarly/screen_1.png",
+        "problem": "A suggestion box with the word 'exactly' highlighted in red.",
+        "solution": [
+            0.5427083333333333,
+            0.37777777777777777,
+            0.84375,
+            0.44537037037037036
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_4.png",
+        "problem": "Located above 'Precipitation.'",
+        "solution": [
+            0.5973214285714286,
+            0.3923809523809524,
+            0.6857142857142857,
+            0.5314285714285715
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/13909.jpg",
+        "problem": "click on circle picture",
+        "solution": [
+            0.666,
+            0.514,
+            0.982,
+            0.692
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_4.png",
+        "problem": "The element is below the Display slider.",
+        "solution": [
+            0.9461309523809524,
+            0.2704761904761905,
+            0.9633928571428572,
+            0.28904761904761905
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/50343.jpg",
+        "problem": "click the icon beside loose it",
+        "solution": [
+            0.404,
+            0.039,
+            0.52,
+            0.104
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/photos/screen_2.png",
+        "problem": "Positioned centrally at the bottom of the screen.",
+        "solution": [
+            0.9616071428571429,
+            0.9395238095238095,
+            0.9883928571428572,
+            0.9809523809523809
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_files/screen_2.png",
+        "problem": "A button with scissors icon and 'Paste' label highlighted in light gray.",
+        "solution": [
+            0.9510416666666667,
+            0.14074074074074075,
+            0.96875,
+            0.17037037037037037
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/35332.jpg",
+        "problem": "select the 2nd checkbox on the web page",
+        "solution": [
+            0.796,
+            0.753,
+            0.957,
+            0.801
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/1584.jpg",
+        "problem": "click on the button beside share button",
+        "solution": [
+            0.903,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calculator/screen_1.png",
+        "problem": "Bottom right, second column in the calculator grid.",
+        "solution": [
+            0.5592261904761905,
+            0.439047619047619,
+            0.593452380952381,
+            0.4857142857142857
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_4.png",
+        "problem": "Play the song 'Good Things' by Dan + Shay.",
+        "solution": [
+            0.4380952380952381,
+            0.2319047619047619,
+            0.7818452380952381,
+            0.2819047619047619
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/27657.jpg",
+        "problem": "select third hair style",
+        "solution": [
+            0.292,
+            0.739,
+            0.438,
+            0.821
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_desktop/screen_3.png",
+        "problem": "A green-bordered square icon with a white spreadsheet and chart graphic.",
+        "solution": [
+            0.5109375,
+            0.5370370370370371,
+            0.5958333333333333,
+            0.6861111111111111
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image118.png",
+        "problem": "This element facilitates topic-based navigation and discovery within the community forum.",
+        "solution": [
+            0.751953125,
+            0.25101996527777776,
+            0.819610595703125,
+            0.2885199652777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_files/screen_2.png",
+        "problem": "Choose an action from the dropdown menu.",
+        "solution": [
+            0.13697916666666668,
+            0.5953703703703703,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/outlook/screen_2.png",
+        "problem": "view mails",
+        "solution": [
+            0.3229166666666667,
+            0.10462962962962963,
+            0.3567708333333333,
+            0.13703703703703704
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/3945.jpg",
+        "problem": "click on the icon on the top right corner",
+        "solution": [
+            0.903,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image258.png",
+        "problem": "This element allows users to browse and search for other items from the same seller, providing a convenient way to explore the seller's inventory and find related products.",
+        "solution": [
+            0.752142333984375,
+            0.7076605902777777,
+            0.85360107421875,
+            0.7326605902777777
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/61870.jpg",
+        "problem": "click on the last icon from bottom left corner",
+        "solution": [
+            0.039,
+            0.891,
+            0.088,
+            0.918
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image302.png",
+        "problem": "This element provides access to detailed information about a specific Unity Scripting API concept.",
+        "solution": [
+            0.0671875,
+            0.12004123263888888,
+            0.24140625,
+            0.1453125
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/8308.jpg",
+        "problem": "select the second button which is right to relaxing violin",
+        "solution": [
+            0.878,
+            0.286,
+            0.967,
+            0.335
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_desktop/screen_1.png",
+        "problem": "Adjust the screen brightness level.",
+        "solution": [
+            0.9708333333333333,
+            0.08703703703703704,
+            0.978125,
+            0.10555555555555556
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image156.png",
+        "problem": "This element provides detailed information about a specific product, allowing users to explore its features and specifications.",
+        "solution": [
+            0.026953125,
+            0.44305555555555554,
+            0.246484375,
+            0.9986111111111111
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image755.png",
+        "problem": "This element provides access to support resources for users seeking assistance with their Apple products.",
+        "solution": [
+            0.78487548828125,
+            0.09722222222222222,
+            0.80206298828125,
+            0.15833333333333333
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/48819.jpg",
+        "problem": "click on third row first image",
+        "solution": [
+            0.018,
+            0.73,
+            0.332,
+            0.867
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/33006.jpg",
+        "problem": "select the button which is slightly right above primal elements",
+        "solution": [
+            0.946,
+            0.398,
+            0.989,
+            0.422
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/52884.jpg",
+        "problem": "click on the icon which is left to option icon",
+        "solution": [
+            0.787,
+            0.039,
+            0.904,
+            0.104
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image903.png",
+        "problem": "This element provides additional information or navigation options for a specific topic.",
+        "solution": [
+            0.69869384765625,
+            0.2998806423611111,
+            0.71744384765625,
+            0.3345269097222222
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/45643.jpg",
+        "problem": "select option beside cross mark",
+        "solution": [
+            0.166,
+            0.046,
+            0.816,
+            0.107
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/outlook/screen_2.png",
+        "problem": "Located at the bottom of the left sidebar.",
+        "solution": [
+            0.0026041666666666665,
+            0.5666666666666667,
+            0.16822916666666668,
+            0.612037037037037
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image789.png",
+        "problem": "This element provides access to a news article or blog post, allowing users to read and learn about a specific topic.",
+        "solution": [
+            0.281640625,
+            0.8222222222222222,
+            0.630859375,
+            0.85
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/64203.jpg",
+        "problem": "select the last color in the last row",
+        "solution": [
+            0.824,
+            0.356,
+            0.921,
+            0.41
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/5667.jpg",
+        "problem": "click on the second right image",
+        "solution": [
+            0.589,
+            0.406,
+            0.9,
+            0.581
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/38387.jpg",
+        "problem": "select the first yellow dot in the sixth row",
+        "solution": [
+            0.427,
+            0.912,
+            0.471,
+            0.931
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image388.png",
+        "problem": "This element provides visual aid to help users understand the community's structure.",
+        "solution": [
+            0.112890625,
+            0.7433810763888888,
+            0.651953125,
+            0.9986111111111111
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/57289.jpg",
+        "problem": "click on the icon on left side of text connect apps  devices",
+        "solution": [
+            0.039,
+            0.836,
+            0.111,
+            0.878
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image309.png",
+        "problem": "This element provides access to information about the organization.",
+        "solution": [
+            0.28404541015625,
+            0.18541666666666667,
+            0.34412841796875,
+            0.20833333333333334
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/67276.jpg",
+        "problem": "click the last icon above the navigation bar",
+        "solution": [
+            0.785,
+            0.858,
+            1.0,
+            0.934
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image395.png",
+        "problem": "This element provides a visual representation for accessing user account information.",
+        "solution": [
+            0.78614501953125,
+            0.034722222222222224,
+            0.79864501953125,
+            0.05416666666666667
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image16.png",
+        "problem": "This element triggers the display of a LinkedIn account registration page, allowing users to create a new account or sign in with existing credentials.",
+        "solution": [
+            0.492333984375,
+            0.016666666666666666,
+            0.542333984375,
+            0.08888888888888889
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/mail/screen_2.png",
+        "problem": "Open or close the photo browser.",
+        "solution": [
+            0.9618055555555556,
+            0.012222222222222223,
+            0.9819444444444444,
+            0.04777777777777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/reminder/screen_1.png",
+        "problem": "A circular element with a plus sign inside.",
+        "solution": [
+            0.20590277777777777,
+            0.45,
+            0.21909722222222222,
+            0.47055555555555556
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_todo/screen_1.png",
+        "problem": "Located below 'take pet to vet' and above 'New task...' input.",
+        "solution": [
+            0.6807291666666667,
+            0.6777777777777778,
+            0.696875,
+            0.7083333333333334
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image622.png",
+        "problem": "This element redirects the user to the main help center portal, providing access to search functionality, personalized welcome messages, and related resources, thereby allowing users to find general help topics and assistance.",
+        "solution": [
+            0.0375,
+            0.05555555555555555,
+            0.17471923828125,
+            0.09444444444444444
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/clock/screen_5.png",
+        "problem": "Positioned to the right of 'W' button.",
+        "solution": [
+            0.5258928571428572,
+            0.46904761904761905,
+            0.5383928571428571,
+            0.4938095238095238
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_1.png",
+        "problem": "Play 'Tailgating' radio.",
+        "solution": [
+            0.9485119047619047,
+            0.5295238095238095,
+            0.9696428571428571,
+            0.5661904761904762
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/24453.jpg",
+        "problem": "click on the top of the book moby dick",
+        "solution": [
+            0.115,
+            0.736,
+            0.211,
+            0.761
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "view_options",
+        "solution": [
+            0.1113095238095238,
+            0.0004761904761904762,
+            0.1380952380952381,
+            0.022857142857142857
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_3.png",
+        "problem": "Positioned below the temperature graph and above the forecast details.",
+        "solution": [
+            0.5038690476190476,
+            0.3638095238095238,
+            0.6973214285714285,
+            0.4023809523809524
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/27598.jpg",
+        "problem": "select the icon which is before search button on page",
+        "solution": [
+            0.826,
+            0.047,
+            0.883,
+            0.096
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/51184.jpg",
+        "problem": "click the beside notification icon",
+        "solution": [
+            0.25,
+            0.099,
+            0.5,
+            0.165
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_2.png",
+        "problem": "Circular dial with directional letters and '5 kph' in the center.",
+        "solution": [
+            0.694047619047619,
+            0.5438095238095239,
+            0.7824404761904762,
+            0.6828571428571428
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/mail/screen_2.png",
+        "problem": "strike",
+        "solution": [
+            0.7972222222222223,
+            0.06777777777777778,
+            0.8052083333333333,
+            0.08
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/13962.jpg",
+        "problem": "second icon of left of play button at the bottom",
+        "solution": [
+            0.007,
+            0.774,
+            0.205,
+            0.84
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/22151.jpg",
+        "problem": "click on button above viewed",
+        "solution": [
+            0.841,
+            0.044,
+            0.981,
+            0.109
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/9353.jpg",
+        "problem": "select the third icon in the right side of the page",
+        "solution": [
+            0.866,
+            0.192,
+            0.975,
+            0.254
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image496.png",
+        "problem": "This element enables users to access their account and profile information, allowing them to utilize personalized features and services on the website.",
+        "solution": [
+            0.03359375,
+            0.011111111111111112,
+            0.062261962890625,
+            0.029861111111111113
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/outlook/screen_2.png",
+        "problem": "Positioned above the email content area.",
+        "solution": [
+            0.5265625,
+            0.09444444444444444,
+            0.553125,
+            0.13425925925925927
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/photos/screen_3.png",
+        "problem": "Located to the right of the mountain lake image.",
+        "solution": [
+            0.7086309523809524,
+            0.5047619047619047,
+            0.9925595238095238,
+            0.9576190476190476
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image564.png",
+        "problem": "This element provides access to helpful information and support on a specific topic.",
+        "solution": [
+            0.03125,
+            0.8444444444444444,
+            0.28125,
+            0.9333333333333333
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_4.png",
+        "problem": "Cancel the current search query.",
+        "solution": [
+            0.9776785714285714,
+            0.011428571428571429,
+            0.9916666666666667,
+            0.039047619047619046
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_files/screen_2.png",
+        "problem": "Access file view and side bar options.",
+        "solution": [
+            0.9072916666666667,
+            0.1388888888888889,
+            0.925,
+            0.1712962962962963
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image779.png",
+        "problem": "This element provides access to a specific news article or story.",
+        "solution": [
+            0.35157470703125,
+            0.15416666666666667,
+            0.417205810546875,
+            0.2125
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/156.jpg",
+        "problem": "select the 5th button from top right side of the web page and right to some text",
+        "solution": [
+            0.903,
+            0.394,
+            0.961,
+            0.459
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/70677.jpg",
+        "problem": "click on the icon which is beside short vowels e",
+        "solution": [
+            0.952,
+            0.629,
+            0.976,
+            0.643
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calculator/screen_1.png",
+        "problem": "Subtract the current value from memory.",
+        "solution": [
+            0.4583333333333333,
+            0.39476190476190476,
+            0.49107142857142855,
+            0.4380952380952381
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/62080.jpg",
+        "problem": "go to share button click the beside inbox icon",
+        "solution": [
+            0.65,
+            0.049,
+            0.737,
+            0.093
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/30662.jpg",
+        "problem": "click the option enable online text to speech on the web page",
+        "solution": [
+            0.01,
+            0.668,
+            0.492,
+            0.712
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/51282.jpg",
+        "problem": "click on comment icon",
+        "solution": [
+            0.825,
+            0.836,
+            0.961,
+            0.913
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image752.png",
+        "problem": "This element provides access to customization options for WordPress.",
+        "solution": [
+            0.223565673828125,
+            0.0,
+            0.291522216796875,
+            0.07777777777777778
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image550.png",
+        "problem": "This element provides additional information about a specific topic from a community moderator.",
+        "solution": [
+            0.076953125,
+            0.40533854166666666,
+            0.605963134765625,
+            0.49287109375
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/camera/screen_1.png",
+        "problem": "A rectangular button with a magnifying glass icon.",
+        "solution": [
+            0.040625,
+            0.028703703703703703,
+            0.058854166666666666,
+            0.06388888888888888
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_5.png",
+        "problem": "Located in the center of the second row.",
+        "solution": [
+            0.28541666666666665,
+            0.5052380952380953,
+            0.41160714285714284,
+            0.8085714285714286
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_3.png",
+        "problem": "Positioned below 'Sun' card in 10-day forecast.",
+        "solution": [
+            0.5258928571428572,
+            0.4014285714285714,
+            0.5413690476190476,
+            0.4204761904761905
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image255.png",
+        "problem": "This element allows users to select a specific month or date range for the calendar view.",
+        "solution": [
+            0.188470458984375,
+            0.07708333333333334,
+            0.2623779296875,
+            0.10902777777777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_settings/screen_2.png",
+        "problem": "Located under 'Graphics settings' in the top section.",
+        "solution": [
+            0.8255208333333334,
+            0.26851851851851855,
+            0.9723958333333333,
+            0.3111111111111111
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_store/screen_3.png",
+        "problem": "Microsoft Store options",
+        "solution": [
+            0.9453125,
+            0.7212962962962963,
+            0.9703125,
+            0.7564814814814815
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image393.png",
+        "problem": "This element triggers a login or authentication process, allowing users to access personalized content or proceed to the next stage of their shopping experience.",
+        "solution": [
+            0.679510498046875,
+            0.5013888888888889,
+            0.793572998046875,
+            0.5486111111111112
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/62551.jpg",
+        "problem": "select the color which is to the immediate left of the blue color in the second row",
+        "solution": [
+            0.328,
+            0.851,
+            0.457,
+            0.924
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_store/screen_1.png",
+        "problem": "Positioned to the left of Adobe Photoshop.",
+        "solution": [
+            0.3963541666666667,
+            0.4898148148148148,
+            0.5,
+            0.7444444444444445
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image937.png",
+        "problem": "This element enables users to access their account or create a new one, allowing them to interact with the platform's features and content.",
+        "solution": [
+            0.71820068359375,
+            0.0125,
+            0.770880126953125,
+            0.04861111111111111
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/30758.jpg",
+        "problem": "click on the button next to search icon",
+        "solution": [
+            0.903,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/39975.jpg",
+        "problem": "select the coin symbol before 20",
+        "solution": [
+            0.791,
+            0.44,
+            0.835,
+            0.465
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/camera/screen_1.png",
+        "problem": "Access print settings.",
+        "solution": [
+            0.8776041666666666,
+            0.1675925925925926,
+            0.9609375,
+            0.18981481481481483
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image315.png",
+        "problem": "This element filters the blog content by a specific month, providing an overview of posts published during that month and easy access to individual posts.",
+        "solution": [
+            0.612939453125,
+            0.7786892361111111,
+            0.636077880859375,
+            0.7995225694444444
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_5.png",
+        "problem": "playlist_punjabi",
+        "solution": [
+            0.8404761904761905,
+            0.6228571428571429,
+            0.987202380952381,
+            0.8785714285714286
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_2.png",
+        "problem": "A rectangular button with a minus sign, light blue background.",
+        "solution": [
+            0.19613095238095238,
+            0.0014285714285714286,
+            0.22113095238095237,
+            0.04523809523809524
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/59026.jpg",
+        "problem": "click on icon above explore",
+        "solution": [
+            0.2,
+            0.869,
+            0.4,
+            0.913
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/maps/screen_3.png",
+        "problem": "Explore routes to The Regent’s Park.",
+        "solution": [
+            0.809375,
+            0.15555555555555556,
+            0.978125,
+            0.17777777777777778
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image472.png",
+        "problem": "This element provides a quick access to relevant code hyperlinks.",
+        "solution": [
+            0.76871337890625,
+            0.13194444444444445,
+            0.817498779296875,
+            0.1625
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/40356.jpg",
+        "problem": "click on the button which is on the top right corner of the page",
+        "solution": [
+            0.866,
+            0.006,
+            1.0,
+            0.071
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image217.png",
+        "problem": "This element triggers the start of a free trial or sign-up process, allowing users to explore the Webex platform.",
+        "solution": [
+            0.0703125,
+            0.03125,
+            0.153125,
+            0.06875
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/42570.jpg",
+        "problem": "click on the color1 option",
+        "solution": [
+            0.659,
+            0.863,
+            0.834,
+            0.926
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_1.png",
+        "problem": "Top right corner under the close button.",
+        "solution": [
+            0.6651785714285714,
+            0.02761904761904762,
+            0.6949404761904762,
+            0.06285714285714286
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_settings/screen_2.png",
+        "problem": "Minimize the Archive Manager window.",
+        "solution": [
+            0.9401041666666666,
+            0.03333333333333333,
+            0.9546875,
+            0.06111111111111111
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image871.png",
+        "problem": "This element provides access to a featured content section.",
+        "solution": [
+            0.371484375,
+            0.0,
+            0.427734375,
+            0.1
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/29768.jpg",
+        "problem": "select the video which is under the text dictionary",
+        "solution": [
+            0.02,
+            0.29,
+            0.981,
+            0.566
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image299.png",
+        "problem": "This element displays the details of a specific event and allows users to interact with it, likely to view more information or edit the event.",
+        "solution": [
+            0.23828125,
+            0.7466579861111111,
+            0.33203125,
+            0.7799913194444444
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/28009.jpg",
+        "problem": "select the green icon which is left side of the kaly",
+        "solution": [
+            0.624,
+            0.815,
+            0.644,
+            0.826
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/grammarly/screen_1.png",
+        "problem": "The element is positioned below the Overall score.",
+        "solution": [
+            0.8760416666666667,
+            0.09907407407407408,
+            0.9786458333333333,
+            0.19722222222222222
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image767.png",
+        "problem": "This element provides access to a specific meeting record or minutes for users to review or reference.",
+        "solution": [
+            0.06788330078125,
+            0.9208224826388889,
+            0.37044677734375,
+            0.9479058159722222
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/mail/screen_2.png",
+        "problem": "reply to sender of selected message",
+        "solution": [
+            0.7805555555555556,
+            0.012222222222222223,
+            0.8045138888888889,
+            0.04611111111111111
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/22832.jpg",
+        "problem": "select settings button",
+        "solution": [
+            0.326,
+            0.873,
+            0.424,
+            0.927
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image303.png",
+        "problem": "This element allows! users to create and manage their own product listings.",
+        "solution": [
+            0.721923828125,
+            0.011729600694444444,
+            0.75162353515625,
+            0.030479600694444445
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/camera/screen_1.png",
+        "problem": "save_as",
+        "solution": [
+            0.8776041666666666,
+            0.2,
+            0.9609375,
+            0.2222222222222222
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/7929.jpg",
+        "problem": "select the ad icon which in the fourth row",
+        "solution": [
+            0.925,
+            0.438,
+            0.983,
+            0.459
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_files/screen_2.png",
+        "problem": "Located in the dropdown menu in top-right section.",
+        "solution": [
+            0.871875,
+            0.25462962962962965,
+            0.9697916666666667,
+            0.2814814814814815
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_1.png",
+        "problem": "A red book cover with large white text 'JUSTICE IS COMING'.",
+        "solution": [
+            0.6133928571428572,
+            0.8647619047619047,
+            0.6934523809523809,
+            1.0
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/18844.jpg",
+        "problem": "select the icon above the pause button",
+        "solution": [
+            0.396,
+            0.315,
+            0.602,
+            0.402
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/grammarly/screen_1.png",
+        "problem": "bold",
+        "solution": [
+            0.07760416666666667,
+            0.9203703703703704,
+            0.096875,
+            0.9518518518518518
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image426.png",
+        "problem": "This element enables user authentication, granting access to personalized features and saved places.",
+        "solution": [
+            0.155078125,
+            0.6583333333333333,
+            0.267578125,
+            0.7027777777777777
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/6494.jpg",
+        "problem": "click on the temperature icon",
+        "solution": [
+            0.83,
+            0.17,
+            0.898,
+            0.208
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/16212.jpg",
+        "problem": "click on the first option from the right top",
+        "solution": [
+            0.903,
+            0.033,
+            1.0,
+            0.098
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/21769.jpg",
+        "problem": "click on the second option to the right of pepper",
+        "solution": [
+            0.883,
+            0.131,
+            0.961,
+            0.175
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_settings/screen_2.png",
+        "problem": "Click to access help resources.",
+        "solution": [
+            0.8234375,
+            0.4444444444444444,
+            0.9182291666666667,
+            0.4759259259259259
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/40183.jpg",
+        "problem": "select the circular shaped icon from the bottom 2nd image from left side of the web page",
+        "solution": [
+            0.383,
+            0.613,
+            0.481,
+            0.667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/12190.jpg",
+        "problem": "select all right to simple",
+        "solution": [
+            0.5,
+            0.108,
+            1.0,
+            0.163
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_files/screen_2.png",
+        "problem": "new_directory",
+        "solution": [
+            0.940625,
+            0.08888888888888889,
+            0.96875,
+            0.12129629629629629
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/23538.jpg",
+        "problem": "click on the erase icon",
+        "solution": [
+            0.476,
+            0.811,
+            0.572,
+            0.866
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image266.png",
+        "problem": "This element allows users to filter questions by a specific programming language or category.",
+        "solution": [
+            0.609808349609375,
+            0.6841362847222222,
+            0.629693603515625,
+            0.7152452256944445
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/6799.jpg",
+        "problem": "move to the fourth icon which is under taurean prince",
+        "solution": [
+            0.369,
+            0.242,
+            0.397,
+            0.258
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/60695.jpg",
+        "problem": "select top stories",
+        "solution": [
+            0.58,
+            0.356,
+            0.656,
+            0.396
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/wechat/screen_1.png",
+        "problem": "The element is directly above the emoji message.",
+        "solution": [
+            0.17395833333333333,
+            0.026851851851851852,
+            0.18958333333333333,
+            0.05648148148148148
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image407.png",
+        "problem": "This element serves as a navigation tool, allowing users to return to the GitHub main website from the GitHub Support page.",
+        "solution": [
+            0.96015625,
+            0.9661024305555556,
+            0.97578125,
+            0.9938802083333333
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/52256.jpg",
+        "problem": "type 154 just to the right of apt drop down box",
+        "solution": [
+            0.527,
+            0.516,
+            0.959,
+            0.582
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "Open the Apple menu for system options.",
+        "solution": [
+            0.005654761904761905,
+            0.0004761904761904762,
+            0.024404761904761905,
+            0.022857142857142857
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/terminal/screen_1.png",
+        "problem": "Positioned at the bottom of terminal text.",
+        "solution": [
+            0.1880952380952381,
+            0.09523809523809523,
+            1.0,
+            0.10666666666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/19284.jpg",
+        "problem": "click on 83 degrees",
+        "solution": [
+            0.874,
+            0.049,
+            0.966,
+            0.093
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/23339.jpg",
+        "problem": "select third music icon from bottom",
+        "solution": [
+            0.005,
+            0.653,
+            0.102,
+            0.707
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "A blue rectangular folder icon labeled 'All'.",
+        "solution": [
+            0.9297619047619048,
+            0.1219047619047619,
+            1.0,
+            0.9338095238095238
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calculator/screen_1.png",
+        "problem": "Bottom row, second from right on calculator.",
+        "solution": [
+            0.5946428571428571,
+            0.5314285714285715,
+            0.6276785714285714,
+            0.5752380952380952
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/outlook/screen_1.png",
+        "problem": "New email",
+        "solution": [
+            0.004166666666666667,
+            0.09722222222222222,
+            0.028125,
+            0.13796296296296295
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/weather/screen_1.png",
+        "problem": "Circular gauge with '3 kph' and compass directions.",
+        "solution": [
+            0.694047619047619,
+            0.5438095238095239,
+            0.7824404761904762,
+            0.6828571428571428
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/55638.jpg",
+        "problem": "improper tagging",
+        "solution": [
+            0.019,
+            0.923,
+            0.981,
+            0.934
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/maps/screen_2.png",
+        "problem": "like place",
+        "solution": [
+            0.5423611111111111,
+            0.3638888888888889,
+            0.5538194444444444,
+            0.38055555555555554
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/59015.jpg",
+        "problem": "click on image which is at top right",
+        "solution": [
+            0.51,
+            0.115,
+            0.985,
+            0.389
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/31379.jpg",
+        "problem": "select the icon which is beside seen on tv",
+        "solution": [
+            0.024,
+            0.644,
+            0.063,
+            0.666
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/10038.jpg",
+        "problem": "click on the second last image",
+        "solution": [
+            0.013,
+            0.638,
+            0.256,
+            0.716
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/6565.jpg",
+        "problem": "click on the icon beside local",
+        "solution": [
+            0.013,
+            0.11,
+            0.11,
+            0.165
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_1.png",
+        "problem": "Pre-order 'Justice is Coming' for early access.",
+        "solution": [
+            0.6133928571428572,
+            0.8647619047619047,
+            0.6934523809523809,
+            1.0
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_desktop/screen_1.png",
+        "problem": "Adjust the system volume level.",
+        "solution": [
+            0.9692708333333333,
+            0.058333333333333334,
+            0.9796875,
+            0.07777777777777778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/61446.jpg",
+        "problem": "select the icon which is next to the 12 mm",
+        "solution": [
+            0.945,
+            0.407,
+            0.982,
+            0.429
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/69801.jpg",
+        "problem": "click on the icon next to record trolling",
+        "solution": [
+            0.858,
+            0.615,
+            0.981,
+            0.69
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/audible/screen_2.png",
+        "problem": "Positioned below the audio book cover image.",
+        "solution": [
+            0.5458333333333333,
+            0.6203703703703703,
+            0.5796875,
+            0.6759259259259259
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_4.png",
+        "problem": "Located within the top-right dropdown panel.",
+        "solution": [
+            0.8330357142857143,
+            0.27095238095238094,
+            0.850297619047619,
+            0.2895238095238095
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/grammarly/screen_1.png",
+        "problem": "Blue button with white text 'See performance'.",
+        "solution": [
+            0.8755208333333333,
+            0.2111111111111111,
+            0.9796875,
+            0.287962962962963
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_desktop/screen_1.png",
+        "problem": "Adjust volume or brightness settings.",
+        "solution": [
+            0.0375,
+            0.19722222222222222,
+            0.09583333333333334,
+            1.0
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/7786.jpg",
+        "problem": "click on the number below the yna",
+        "solution": [
+            0.305,
+            0.758,
+            0.427,
+            0.797
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image574.png",
+        "problem": "This element triggers a process to help users recover access to their accounts, potentially by sending a recovery email or providing another means of account recovery.",
+        "solution": [
+            0.330078125,
+            0.77138671875,
+            0.5737060546875,
+            0.7936089409722222
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/maps/screen_1.png",
+        "problem": "Switch to 3D map view.",
+        "solution": [
+            0.8583333333333333,
+            0.01,
+            0.8729166666666667,
+            0.03
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/news/screen_2.png",
+        "problem": "Located on the far right of the screen.",
+        "solution": [
+            0.1527777777777778,
+            0.06055555555555556,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_store/screen_2.png",
+        "problem": "White dots on a black background, indicating scroll position.",
+        "solution": [
+            0.5083333333333333,
+            0.6425925925925926,
+            0.515625,
+            0.6620370370370371
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image89.png",
+        "problem": "This element provides access to a list of messages or events that occurred on a specific day.",
+        "solution": [
+            0.119140625,
+            0.5861111111111111,
+            0.20606689453125,
+            0.6201388888888889
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_settings/screen_1.png",
+        "problem": "Located next to 'Bark' and above 'Drip'.",
+        "solution": [
+            0.6135416666666667,
+            0.8787037037037037,
+            0.6770833333333334,
+            0.9111111111111111
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image881.png",
+        "problem": "This element provides access to a relevant webpage or resource related to the search query.",
+        "solution": [
+            0.140625,
+            0.23055555555555557,
+            0.322674560546875,
+            0.28888888888888886
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/62131.jpg",
+        "problem": "select the symbol above frames",
+        "solution": [
+            0.398,
+            0.804,
+            0.507,
+            0.871
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image897.png",
+        "problem": "This element provides access to a specific ESG-related resource or document.",
+        "solution": [
+            0.072265625,
+            0.82138671875,
+            0.22259521484375,
+            0.8672200520833333
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/71198.jpg",
+        "problem": "click on the icon beside the password field",
+        "solution": [
+            0.074,
+            0.614,
+            0.11,
+            0.638
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/text_editor/screen_3.png",
+        "problem": "A rectangular dropdown menu icon with a gray background.",
+        "solution": [
+            0.18177083333333333,
+            0.03148148148148148,
+            0.2,
+            0.05925925925925926
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image524.png",
+        "problem": "This element triggers the display of a tire search page, allowing users to filter and find tires specific to their vehicle type, providing detailed information about each tire model.",
+        "solution": [
+            0.457415771484375,
+            0.012391493055555555,
+            0.543792724609375,
+            0.02995876736111111
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "A white folder icon labeled 'All' on a mustard background.",
+        "solution": [
+            0.13958333333333334,
+            0.0014285714285714286,
+            0.1630952380952381,
+            0.023809523809523808
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/25667.jpg",
+        "problem": "go to the second icon below menu",
+        "solution": [
+            0.176,
+            0.114,
+            0.344,
+            0.156
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_store/screen_3.png",
+        "problem": "A pill-shaped button with white text on a dark background.",
+        "solution": [
+            0.07135416666666666,
+            0.2796296296296296,
+            0.13541666666666666,
+            0.3148148148148148
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image440.png",
+        "problem": "This element toggles the visibility of a related list of links.",
+        "solution": [
+            0.583984375,
+            0.5959092881944444,
+            0.600286865234375,
+            0.6167426215277778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_store/screen_2.png",
+        "problem": "Centered below the main featured game image.",
+        "solution": [
+            0.5083333333333333,
+            0.6425925925925926,
+            0.515625,
+            0.6620370370370371
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/48817.jpg",
+        "problem": "click on image beside facebok",
+        "solution": [
+            0.013,
+            0.424,
+            0.13,
+            0.49
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/30726.jpg",
+        "problem": "click on the top right side button",
+        "solution": [
+            0.883,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/69267.jpg",
+        "problem": "go to the fifth image",
+        "solution": [
+            0.055,
+            0.743,
+            0.48,
+            0.922
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/13194.jpg",
+        "problem": "click on the image above inside flipboard",
+        "solution": [
+            0.502,
+            0.605,
+            1.0,
+            0.884
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/36421.jpg",
+        "problem": "click on the second image below 1542k members",
+        "solution": [
+            0.114,
+            0.153,
+            0.169,
+            0.184
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_settings/screen_1.png",
+        "problem": "Top right quadrant next to 'Network & Internet'.",
+        "solution": [
+            0.7708333333333334,
+            0.3490740740740741,
+            0.9291666666666667,
+            0.44722222222222224
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/maps/screen_3.png",
+        "problem": "Located in the top transport mode selector bar.",
+        "solution": [
+            0.8875,
+            0.07611111111111112,
+            0.9201388888888888,
+            0.10611111111111111
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/message/screen_1.png",
+        "problem": "Respond to Ash's message.",
+        "solution": [
+            0.00625,
+            0.2723809523809524,
+            0.1842261904761905,
+            0.33380952380952383
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_todo/screen_1.png",
+        "problem": "A task bar with text 'haircut' and a checkbox.",
+        "solution": [
+            0.34375,
+            0.5861111111111111,
+            0.3541666666666667,
+            0.6157407407407407
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/62804.jpg",
+        "problem": "go to tee shirt in second row",
+        "solution": [
+            0.804,
+            0.333,
+            0.937,
+            0.414
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/49534.jpg",
+        "problem": "click on small below 30 sec",
+        "solution": [
+            0.737,
+            0.224,
+            0.98,
+            0.265
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calendar/screen_1.png",
+        "problem": "White circular calendar date '5' highlighted in gray.",
+        "solution": [
+            0.7607638888888889,
+            0.08277777777777778,
+            0.7701388888888889,
+            0.09666666666666666
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/48055.jpg",
+        "problem": "click on the first  icon in second line",
+        "solution": [
+            0.02,
+            0.033,
+            0.118,
+            0.098
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/43044.jpg",
+        "problem": "select the button which is right to the 5y button",
+        "solution": [
+            0.869,
+            0.574,
+            1.0,
+            0.602
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_3.png",
+        "problem": "Positioned at the top-right corner of the desktop.",
+        "solution": [
+            0.08333333333333333,
+            0.0004761904761904762,
+            0.1113095238095238,
+            0.022857142857142857
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/29192.jpg",
+        "problem": "click on the second icon from the bottom right of the page",
+        "solution": [
+            0.891,
+            0.825,
+            0.963,
+            0.866
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/audible/screen_2.png",
+        "problem": "A circular button with a curved arrow icon on it.",
+        "solution": [
+            0.42239583333333336,
+            0.6222222222222222,
+            0.4546875,
+            0.675
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/59571.jpg",
+        "problem": "click on the second icon which is at the top right of the page",
+        "solution": [
+            0.883,
+            0.044,
+            1.0,
+            0.109
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/app_store/screen_1.png",
+        "problem": "Positioned between 'DaVinci Resolve' and 'Things 3.'",
+        "solution": [
+            0.4496527777777778,
+            0.8622222222222222,
+            0.6493055555555556,
+            0.9177777777777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_4.png",
+        "problem": "scroll",
+        "solution": [
+            0.1193452380952381,
+            0.05047619047619047,
+            1.0,
+            1.0
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image728.png",
+        "problem": "This element reveals a detailed list of events and their descriptions, likely providing users with information on how to handle specific events or interactions within the JavaScript API.",
+        "solution": [
+            0.225,
+            0.6527777777777778,
+            0.24375,
+            0.6916666666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/33218.jpg",
+        "problem": "click on icon which is right to 488",
+        "solution": [
+            0.907,
+            0.112,
+            0.952,
+            0.144
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image800.png",
+        "problem": "This element triggers an FAQ section for users to find answers to their questions about the services and offerings on the domain auction site.",
+        "solution": [
+            0.16905517578125,
+            0.76875,
+            0.223291015625,
+            0.7840277777777778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/7221.jpg",
+        "problem": "click on image right to left arrow at bottom left",
+        "solution": [
+            0.2,
+            0.817,
+            0.422,
+            0.928
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image478.png",
+        "problem": "This element provides access to a dedicated resource page for a specific Microsoft product or device, offering users targeted support and information.",
+        "solution": [
+            0.442041015625,
+            0.6586263020833333,
+            0.54620361328125,
+            0.7998263888888889
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_1.png",
+        "problem": "Explore country music channels.",
+        "solution": [
+            0.9589285714285715,
+            0.1742857142857143,
+            0.9744047619047619,
+            0.1980952380952381
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image810.png",
+        "problem": "This element provides a shortcut to access content related to a specific topic or category.",
+        "solution": [
+            0.0,
+            0.8576388888888888,
+            0.20546875,
+            0.904296875
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/photos/screen_2.png",
+        "problem": "Select to view this beach scene.",
+        "solution": [
+            0.34077380952380953,
+            0.939047619047619,
+            0.3547619047619048,
+            0.9804761904761905
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/9159.jpg",
+        "problem": "select the second image from the second column",
+        "solution": [
+            0.511,
+            0.575,
+            0.97,
+            0.833
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/maps/screen_3.png",
+        "problem": "start location",
+        "solution": [
+            0.8100694444444444,
+            0.13055555555555556,
+            0.9777777777777777,
+            0.15333333333333332
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/photos/screen_2.png",
+        "problem": "Select the image for a larger view.",
+        "solution": [
+            0.30416666666666664,
+            0.9385714285714286,
+            0.319047619047619,
+            0.979047619047619
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image221.png",
+        "problem": "This element .",
+        "solution": [
+            0.750390625,
+            0.6170464409722223,
+            0.7781982421875,
+            0.6420464409722222
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calendar/screen_3.png",
+        "problem": "Located on January 10th row, rightmost column.",
+        "solution": [
+            0.8604166666666667,
+            0.8583333333333333,
+            0.9975694444444444,
+            0.9927777777777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_calendar/screen_1.png",
+        "problem": "Check events scheduled for October 13.",
+        "solution": [
+            0.6192708333333333,
+            0.6259259259259259,
+            0.7557291666666667,
+            0.7703703703703704
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/69893.jpg",
+        "problem": "select the text right to round star mark at the top of the page",
+        "solution": [
+            0.144,
+            0.033,
+            0.631,
+            0.1
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/70339.jpg",
+        "problem": "select the second row third image",
+        "solution": [
+            0.505,
+            0.607,
+            0.991,
+            0.848
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_5.png",
+        "problem": "A beige book cover with 'A Grammar of the English Tongue' in black text.",
+        "solution": [
+            0.9464285714285714,
+            0.4461904761904762,
+            0.9785714285714285,
+            0.47619047619047616
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image619.png",
+        "problem": "This element provides access to a submenu related to a specific product category.",
+        "solution": [
+            0.3164794921875,
+            0.0,
+            0.3336669921875,
+            0.06111111111111111
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image422.png",
+        "problem": "This element navigates the user to a specific help topic webpage, providing in-depth resources and tutorials for a particular aspect of Vimeo's services, thereby facilitating a more detailed and focused exploration of the topic.",
+        "solution": [
+            0.35648193359375,
+            0.8031575520833333,
+            0.631793212890625,
+            0.9986111111111111
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/8514.jpg",
+        "problem": "select the icon before feedback on the page",
+        "solution": [
+            0.039,
+            0.874,
+            0.097,
+            0.907
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image835.png",
+        "problem": "This element provides access to a submenu related to a specific product category, allowing users to explore relevant options and features.",
+        "solution": [
+            0.272845458984375,
+            0.0,
+            0.290032958984375,
+            0.06111111111111111
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/camera/screen_1.png",
+        "problem": "Use to save a file with a new name.",
+        "solution": [
+            0.8776041666666666,
+            0.2,
+            0.9609375,
+            0.2222222222222222
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_1.png",
+        "problem": "Positioned under 'NEW YORK TIMES NONFICTION'.",
+        "solution": [
+            0.7720238095238096,
+            0.17095238095238094,
+            0.9654761904761905,
+            0.26
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/news/screen_2.png",
+        "problem": "White text with a heart icon on a dark background.",
+        "solution": [
+            0.9715277777777778,
+            0.006666666666666667,
+            0.9965277777777778,
+            0.05
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image357.png",
+        "problem": "This element provides access to a specific media type or category of content within the Internet Archive.",
+        "solution": [
+            0.330718994140625,
+            0.0,
+            0.401947021484375,
+            0.06944444444444445
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image743.png",
+        "problem": "This element allows users to access content related to a specific time period.",
+        "solution": [
+            0.721240234375,
+            0.6129774305555555,
+            0.754559326171875,
+            0.6338107638888889
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_desktop/screen_3.png",
+        "problem": "Located bottom row, third icon from the left.",
+        "solution": [
+            0.5114583333333333,
+            0.7287037037037037,
+            0.5963541666666666,
+            0.8777777777777778
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/16210.jpg",
+        "problem": "select the image which is to the right of 6 worldwide",
+        "solution": [
+            0.735,
+            0.145,
+            0.942,
+            0.261
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image761.png",
+        "problem": "This element triggers a dropdown menu that offers users an opportunity to explore various features related to the webpage's topic.",
+        "solution": [
+            0.21231689453125,
+            0.17916666666666667,
+            0.294921875,
+            0.22569444444444445
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/17624.jpg",
+        "problem": "select the second icon which is at the top right corner",
+        "solution": [
+            0.865,
+            0.033,
+            1.0,
+            0.109
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image659.png",
+        "problem": "This element provides access to a specific news article for users to read.",
+        "solution": [
+            0.439312744140625,
+            0.6844401041666667,
+            0.633984375,
+            0.7122178819444445
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calendar/screen_1.png",
+        "problem": "Bold text displaying '5' on a circular background.",
+        "solution": [
+            0.41215277777777776,
+            0.009444444444444445,
+            0.45243055555555556,
+            0.03166666666666667
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_todo/screen_1.png",
+        "problem": "haircut options",
+        "solution": [
+            0.6817708333333333,
+            0.5851851851851851,
+            0.6963541666666667,
+            0.6166666666666667
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/photos/screen_2.png",
+        "problem": "Left-most icon in the control panel.",
+        "solution": [
+            0.04970238095238095,
+            0.94,
+            0.07648809523809524,
+            0.9814285714285714
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/40979.jpg",
+        "problem": "select the icon right side of 1565",
+        "solution": [
+            0.221,
+            0.251,
+            0.274,
+            0.273
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/47014.jpg",
+        "problem": "select third image under top selling at bottom",
+        "solution": [
+            0.624,
+            0.697,
+            0.903,
+            0.923
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/app_store/screen_1.png",
+        "problem": "Below 'DaVinci Resolve' and above 'Things 3'.",
+        "solution": [
+            0.65,
+            0.8611111111111112,
+            0.7107638888888889,
+            0.9183333333333333
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_3.png",
+        "problem": "A yellow highlighted rectangular text with the word 'manzana'.",
+        "solution": [
+            0.34017857142857144,
+            0.8738095238095238,
+            0.3464285714285714,
+            0.9023809523809524
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_2.png",
+        "problem": "Located at the top-right corner of the interface.",
+        "solution": [
+            0.8633928571428572,
+            0.04904761904761905,
+            0.9214285714285714,
+            0.07666666666666666
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/54133.jpg",
+        "problem": "go to image from bottom 2nd one on the right side",
+        "solution": [
+            0.599,
+            0.506,
+            0.981,
+            0.668
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/63150.jpg",
+        "problem": "select the icon which is above the text daytimelunar phase",
+        "solution": [
+            0.771,
+            0.034,
+            0.883,
+            0.099
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/70527.jpg",
+        "problem": "click on the icon top right corner",
+        "solution": [
+            0.939,
+            0.044,
+            0.988,
+            0.071
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/28859.jpg",
+        "problem": "click the immediate option which is below 223",
+        "solution": [
+            0.888,
+            0.041,
+            0.976,
+            0.09
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/36499.jpg",
+        "problem": "click on the icon next to the play icon",
+        "solution": [
+            0.891,
+            0.747,
+            1.0,
+            0.795
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image327.png",
+        "problem": "This element provides access to information about a specific contributor to the blog.",
+        "solution": [
+            0.719140625,
+            0.3961046006944444,
+            0.760284423828125,
+            0.4238823784722222
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/16585.jpg",
+        "problem": "select the moon which is below 26th moon",
+        "solution": [
+            0.671,
+            0.606,
+            0.807,
+            0.694
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image809.png",
+        "problem": "This element allows users to select a specific date from the calendar.",
+        "solution": [
+            0.330224609375,
+            0.8794162326388889,
+            0.34852294921875,
+            0.9065321180555556
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/10753.jpg",
+        "problem": "click on the button which is at top right corner of the page",
+        "solution": [
+            0.883,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/app_store/screen_1.png",
+        "problem": "Below DaVinci Resolve and above Mercury Weather.",
+        "solution": [
+            0.17777777777777778,
+            0.9416666666666667,
+            0.38298611111111114,
+            0.9933333333333333
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/maps/screen_3.png",
+        "problem": "destination",
+        "solution": [
+            0.809375,
+            0.15555555555555556,
+            0.978125,
+            0.17777777777777778
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image583.png",
+        "problem": "This element provides access to additional Reddit resources or tools.",
+        "solution": [
+            0.0125,
+            0.49583333333333335,
+            0.18671875,
+            0.5513888888888889
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image945.png",
+        "problem": "This element provides access to a submenu of related product information or options.",
+        "solution": [
+            0.45936279296875,
+            0.09722222222222222,
+            0.47655029296875,
+            0.15833333333333333
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_todo/screen_1.png",
+        "problem": "Located between 'haircut' and 'basketball game'.",
+        "solution": [
+            0.68125,
+            0.6342592592592593,
+            0.6958333333333333,
+            0.6611111111111111
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/31208.jpg",
+        "problem": "select the option on the bottom left corner of the web page",
+        "solution": [
+            0.013,
+            0.859,
+            0.128,
+            0.934
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/43419.jpg",
+        "problem": "select the top right side dish greggies hotdish",
+        "solution": [
+            0.51,
+            0.109,
+            0.985,
+            0.303
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image706.png",
+        "problem": "This element controls the visibility of a code block related to Quic support in the codebase. It ensures that the code block is only executed when Quic support is not present in the current implementation.",
+        "solution": [
+            0.08984375,
+            0.8035481770833334,
+            0.12640380859375,
+            0.8197916666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/23040.jpg",
+        "problem": "click on the icon above animation",
+        "solution": [
+            0.568,
+            0.345,
+            0.932,
+            0.401
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image921.png",
+        "problem": "This element provides access to detailed information about a specific subpackage within the main package.",
+        "solution": [
+            0.078125,
+            0.40725911458333336,
+            0.381298828125,
+            0.4371202256944444
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/59112.jpg",
+        "problem": "click the image which is above viviaaaan",
+        "solution": [
+            0.694,
+            0.659,
+            0.793,
+            0.715
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_calendar/screen_1.png",
+        "problem": "A small white number on a dark background.",
+        "solution": [
+            0.05677083333333333,
+            0.3574074074074074,
+            0.07239583333333334,
+            0.3861111111111111
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/grammarly/screen_1.png",
+        "problem": "A three-dot vertical menu icon, grey in color.",
+        "solution": [
+            0.6505208333333333,
+            0.22314814814814815,
+            0.6703125,
+            0.25555555555555554
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_store/screen_2.png",
+        "problem": "Positioned to the right of Forge of Empires card.",
+        "solution": [
+            0.6614583333333334,
+            0.4324074074074074,
+            0.7645833333333333,
+            0.4666666666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/7986.jpg",
+        "problem": "select the second icon which is at the top right of the page",
+        "solution": [
+            0.883,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/text_editor/screen_2.png",
+        "problem": "Below the 'Find' text field.",
+        "solution": [
+            0.4546875,
+            0.48148148148148145,
+            0.615625,
+            0.5092592592592593
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/spotify/screen_2.png",
+        "problem": "Text 'Mockingbird' with a green play icon beside it.",
+        "solution": [
+            0.46145833333333336,
+            0.8648148148148148,
+            0.48802083333333335,
+            0.9083333333333333
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/reminder/screen_2.png",
+        "problem": "View details about the 'Resume workshop' task.",
+        "solution": [
+            0.9795138888888889,
+            0.4888888888888889,
+            0.9892361111111111,
+            0.505
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/38596.jpg",
+        "problem": "click on the icon above the text cards",
+        "solution": [
+            0.871,
+            0.087,
+            0.993,
+            0.155
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image404.png",
+        "problem": "This element triggers navigation to a specific line in the code, allowing users to focus on a particular part of the code more easily.",
+        "solution": [
+            0.22109375,
+            0.7708333333333334,
+            0.249462890625,
+            0.7934027777777778
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image904.png",
+        "problem": "This element provides access to a list of support options, allowing users to find help and resources related to Apple products and services.",
+        "solution": [
+            0.78487548828125,
+            0.09722222222222222,
+            0.80206298828125,
+            0.15833333333333333
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/grammarly/screen_1.png",
+        "problem": "Located above the 'All Suggestions' panel.",
+        "solution": [
+            0.18177083333333333,
+            0.9222222222222223,
+            0.2078125,
+            0.95
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/62522.jpg",
+        "problem": "click on the image below the text jan 25",
+        "solution": [
+            0.505,
+            0.853,
+            0.991,
+            0.934
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/outlook/screen_2.png",
+        "problem": "Located in the top right corner of the email editor.",
+        "solution": [
+            0.7307291666666667,
+            0.09259259259259259,
+            0.7802083333333333,
+            0.13518518518518519
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calculator/screen_1.png",
+        "problem": "open_bracket",
+        "solution": [
+            0.32142857142857145,
+            0.3952380952380952,
+            0.35535714285714287,
+            0.43857142857142856
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image242.png",
+        "problem": "This element triggers a special offer or discount for users, providing them with incentives for purchasing services on the webpage.",
+        "solution": [
+            0.0625,
+            0.4791666666666667,
+            0.92578125,
+            0.625
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image927.png",
+        "problem": "This element navigates the user to an artist's profile page, providing access to their entire music catalog, stats, and external links.",
+        "solution": [
+            0.734765625,
+            0.9430555555555555,
+            0.908984375,
+            0.9666666666666667
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image188.png",
+        "problem": "This element triggers a search function for finding specific content within the current file.",
+        "solution": [
+            0.718060302734375,
+            0.1875,
+            0.76246337890625,
+            0.21805555555555556
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_desktop/screen_3.png",
+        "problem": "Located below the Files icon, centered in the row.",
+        "solution": [
+            0.4010416666666667,
+            0.537962962962963,
+            0.4859375,
+            0.687037037037037
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/vlc/screen_1.png",
+        "problem": "Located within the dropdown menu on the right side.",
+        "solution": [
+            0.86875,
+            0.2777777777777778,
+            0.9776041666666667,
+            0.2962962962962963
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/system_preferences/screen_1.png",
+        "problem": "Located in the lower-left corner of the grid.",
+        "solution": [
+            0.2361111111111111,
+            0.49833333333333335,
+            0.2722222222222222,
+            0.5866666666666667
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/zoom/screen_1.png",
+        "problem": "notification",
+        "solution": [
+            0.9472222222222222,
+            0.01611111111111111,
+            0.9638888888888889,
+            0.04055555555555555
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/text_editor/screen_1.png",
+        "problem": "Located within the dropdown menu under 'Tools.'",
+        "solution": [
+            0.8628064684402713,
+            0.19833178869323448,
+            0.9796557120500783,
+            0.2196478220574606
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_files/screen_2.png",
+        "problem": "A menu option labeled 'Copy' with scissors icon.",
+        "solution": [
+            0.928125,
+            0.1388888888888889,
+            0.9473958333333333,
+            0.17037037037037037
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_5.png",
+        "problem": "Pink square with 'HOME OFFICE DJ' text in black.",
+        "solution": [
+            0.0008928571428571428,
+            0.2557142857142857,
+            0.11785714285714285,
+            0.2795238095238095
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/mail/screen_2.png",
+        "problem": "Located at the top right above the message area.",
+        "solution": [
+            0.8857638888888889,
+            0.010555555555555556,
+            0.9173611111111111,
+            0.04888888888888889
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/25978.jpg",
+        "problem": "click the setting icon above network diagnostics",
+        "solution": [
+            0.459,
+            0.702,
+            0.569,
+            0.764
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/13918.jpg",
+        "problem": "click on the more option in the bottom left corner",
+        "solution": [
+            0.799,
+            0.858,
+            0.998,
+            0.934
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image877.png",
+        "problem": "This element triggers a search functionality, allowing users to find specific content within the webpage.",
+        "solution": [
+            0.9060546875,
+            0.004166666666666667,
+            0.9341796875,
+            0.06666666666666667
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/finder/screen_4.png",
+        "problem": "Adjust the system volume level.",
+        "solution": [
+            0.8330357142857143,
+            0.27095238095238094,
+            0.850297619047619,
+            0.2895238095238095
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/7349.jpg",
+        "problem": "click on the icon shown at the right corner of the page above skip",
+        "solution": [
+            0.904,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/15674.jpg",
+        "problem": "select the box which says platinum",
+        "solution": [
+            0.641,
+            0.425,
+            0.859,
+            0.489
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/preview/screen_1.png",
+        "problem": "Located on the top-right corner of the window.",
+        "solution": [
+            0.04097222222222222,
+            0.04833333333333333,
+            0.050694444444444445,
+            0.06277777777777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/spotify/screen_2.png",
+        "problem": "Located below the 'Explore Premium' button.",
+        "solution": [
+            0.7020833333333333,
+            0.10277777777777777,
+            0.8447916666666667,
+            0.1388888888888889
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_settings/screen_2.png",
+        "problem": "Positioned beneath 'Windows shortcut', under 'Microphone on/off'.",
+        "solution": [
+            0.3171875,
+            0.9305555555555556,
+            0.41458333333333336,
+            0.9527777777777777
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/17739.jpg",
+        "problem": "click on the text right to the favorites text",
+        "solution": [
+            0.466,
+            0.109,
+            1.0,
+            0.186
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calculator/screen_1.png",
+        "problem": "Located at the bottom-right of the calculator interface.",
+        "solution": [
+            0.6282738095238095,
+            0.5752380952380952,
+            0.662797619047619,
+            0.6204761904761905
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/text_editor/screen_3.png",
+        "problem": "Above the code editor area and 'code_algo' tab",
+        "solution": [
+            0.14479166666666668,
+            0.02962962962962963,
+            0.18125,
+            0.062037037037037036
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/122.jpg",
+        "problem": "click on the units above heights",
+        "solution": [
+            0.741,
+            0.472,
+            0.868,
+            0.516
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/42781.jpg",
+        "problem": "select the number 6",
+        "solution": [
+            0.638,
+            0.699,
+            0.891,
+            0.765
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/1191.jpg",
+        "problem": "icon left to the alarm clock icon",
+        "solution": [
+            0.172,
+            0.883,
+            0.328,
+            0.927
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image121.png",
+        "problem": "This element enables users to quickly access a specific wiki page or topic by entering a search term or page name.",
+        "solution": [
+            0.68289794921875,
+            0.02326388888888889,
+            0.82039794921875,
+            0.06215277777777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/clock/screen_2.png",
+        "problem": "Positioned below the timer display.",
+        "solution": [
+            0.4630952380952381,
+            0.5614285714285714,
+            0.5360119047619047,
+            0.5780952380952381
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image441.png",
+        "problem": "This element provides access to related content or the current article itself.",
+        "solution": [
+            0.786480712890625,
+            0.3429144965277778,
+            0.841802978515625,
+            0.38540581597222223
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/10258.jpg",
+        "problem": "radio button below second text field",
+        "solution": [
+            0.569,
+            0.62,
+            0.835,
+            0.659
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image666.png",
+        "problem": "This element provides access to account management and customization options.",
+        "solution": [
+            0.95703125,
+            0.03888888888888889,
+            0.97578125,
+            0.07222222222222222
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image479.png",
+        "problem": "This element provides access to a specific section of the Terms of Service document, allowing users to review and understand the corresponding terms and conditions.",
+        "solution": [
+            0.0760986328125,
+            0.6354166666666666,
+            0.221185302734375,
+            0.6680555555555555
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/photos/screen_3.png",
+        "problem": "A black thumbnail with a colorful landscape image and a heart icon.",
+        "solution": [
+            0.0026785714285714286,
+            0.4,
+            0.12232142857142857,
+            0.4276190476190476
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/calendar/screen_1.png",
+        "problem": "Calendar date '5' highlighted with a light background in circular shape.",
+        "solution": [
+            0.7791666666666667,
+            0.08444444444444445,
+            0.7892361111111111,
+            0.09777777777777778
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/text_editor/screen_1.png",
+        "problem": "Select a tool option from the dropdown.",
+        "solution": [
+            0.05216484089723526,
+            0.0018535681186283596,
+            0.11737089201877934,
+            0.026876737720111215
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/17740.jpg",
+        "problem": "click on set shortcut",
+        "solution": [
+            0.333,
+            0.771,
+            0.667,
+            0.821
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/25861.jpg",
+        "problem": "equiliser icon right to fox2 logo",
+        "solution": [
+            0.851,
+            0.036,
+            0.981,
+            0.106
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/ibooks/screen_3.png",
+        "problem": "see_bookmarks",
+        "solution": [
+            0.07380952380952381,
+            0.022857142857142857,
+            0.09821428571428571,
+            0.07285714285714286
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/48440.jpg",
+        "problem": "click the button which is at the last but second on the right side of the page",
+        "solution": [
+            0.58,
+            0.18,
+            0.92,
+            0.371
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/43781.jpg",
+        "problem": "click on icon left to edit icon",
+        "solution": [
+            0.767,
+            0.033,
+            0.883,
+            0.098
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_settings/screen_2.png",
+        "problem": "Blue text link on a dark background.",
+        "solution": [
+            0.8234375,
+            0.4444444444444444,
+            0.9182291666666667,
+            0.4759259259259259
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/message/screen_1.png",
+        "problem": "Reply to Sid's message.",
+        "solution": [
+            0.006547619047619048,
+            0.7052380952380952,
+            0.18452380952380953,
+            0.7666666666666667
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image704.png",
+        "problem": "This element allows users to access a specific community on Reddit, providing a gateway to relevant content and discussions.",
+        "solution": [
+            0.753125,
+            0.2638888888888889,
+            0.975,
+            0.3416666666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/44079.jpg",
+        "problem": "click on the second cloud image on the right",
+        "solution": [
+            0.826,
+            0.473,
+            1.0,
+            0.524
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/mail/screen_1.png",
+        "problem": "Located in the top right toolbar.",
+        "solution": [
+            0.6319444444444444,
+            0.008888888888888889,
+            0.653125,
+            0.04611111111111111
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image486.png",
+        "problem": "This element navigates to a specific Greek mythology story webpage, allowing users to access and learn about various mythological stories and relationships between gods and goddesses.",
+        "solution": [
+            0.722265625,
+            0.4262478298611111,
+            0.782574462890625,
+            0.44708116319444446
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/40183.jpg",
+        "problem": "select the circular shaped icon from the bottom 2nd image from left side of the web page",
+        "solution": [
+            0.383,
+            0.613,
+            0.481,
+            0.667
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/audible/screen_2.png",
+        "problem": "Below the 'The Sweet Spot' title.",
+        "solution": [
+            0.409375,
+            0.6907407407407408,
+            0.47291666666666665,
+            0.7453703703703703
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/reminder/screen_1.png",
+        "problem": "Located at the bottom of the reminder list, near 'Wed Sep 27'.",
+        "solution": [
+            0.20625,
+            0.7922222222222223,
+            0.21875,
+            0.8138888888888889
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/4700.jpg",
+        "problem": "click on icon which is at top right corner",
+        "solution": [
+            0.883,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/58593.jpg",
+        "problem": "first emoji in fourth row of the page",
+        "solution": [
+            0.066,
+            0.478,
+            0.241,
+            0.576
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/63991.jpg",
+        "problem": "go to top right corner",
+        "solution": [
+            0.883,
+            0.039,
+            1.0,
+            0.104
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image678.png",
+        "problem": "This element provides access to detailed information about a specific aspect of the game.",
+        "solution": [
+            0.147265625,
+            0.6652777777777777,
+            0.49580078125,
+            0.6840277777777778
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image557.png",
+        "problem": "This element provides access to a specific video content or channel.",
+        "solution": [
+            0.09375,
+            0.5104166666666666,
+            0.147430419921875,
+            0.5381944444444444
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/spotify/screen_2.png",
+        "problem": "A dropdown menu item with white text on a dark background.",
+        "solution": [
+            0.8453125,
+            0.3731481481481482,
+            0.9661458333333334,
+            0.4111111111111111
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/44115.jpg",
+        "problem": "click 6",
+        "solution": [
+            0.669,
+            0.566,
+            1.0,
+            0.688
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_calendar/screen_2.png",
+        "problem": "Select an end time for the event.",
+        "solution": [
+            0.8026041666666667,
+            0.26944444444444443,
+            0.9244791666666666,
+            0.30648148148148147
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/windows_store/screen_3.png",
+        "problem": "Intel graphics options",
+        "solution": [
+            0.9473958333333333,
+            0.9009259259259259,
+            0.9692708333333333,
+            0.9351851851851852
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/music/screen_5.png",
+        "problem": "search_playlist",
+        "solution": [
+            0.006547619047619048,
+            0.060476190476190475,
+            0.1113095238095238,
+            0.08666666666666667
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/17910.jpg",
+        "problem": "select the bottom image under edit playlist",
+        "solution": [
+            0.024,
+            0.916,
+            0.141,
+            0.934
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/34093.jpg",
+        "problem": "click on the image above beardify",
+        "solution": [
+            0.452,
+            0.798,
+            0.618,
+            0.892
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/60337.jpg",
+        "problem": "click on button with 9",
+        "solution": [
+            0.671,
+            0.748,
+            0.961,
+            0.816
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/21279.jpg",
+        "problem": "select the text which is to the left of the share icon",
+        "solution": [
+            0.166,
+            0.033,
+            0.852,
+            0.098
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/7349.jpg",
+        "problem": "select the 2nd image on the right next to the first image on the web page",
+        "solution": [
+            0.744,
+            0.282,
+            1.0,
+            0.711
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/linux_settings/screen_1.png",
+        "problem": "Located below the 'Configuration' input field.",
+        "solution": [
+            0.5083333333333333,
+            0.7814814814814814,
+            0.5671875,
+            0.8064814814814815
+        ]
+    },
+    {
+        "image": "mobile_domain/UIBert/20274.jpg",
+        "problem": "select the second icon for mix audio",
+        "solution": [
+            0.568,
+            0.472,
+            0.665,
+            0.527
+        ]
+    },
+    {
+        "image": "desktop_domain/seeclick/system_preferences/screen_1.png",
+        "problem": "Located in the bottom center row of the grid.",
+        "solution": [
+            0.46041666666666664,
+            0.49833333333333335,
+            0.49895833333333334,
+            0.5722222222222222
+        ]
+    },
+    {
+        "image": "web_domain/AutoGUI/image469.png",
+        "problem": "This element provides access to a specific item within the collection or list.",
+        "solution": [
+            0.813140869140625,
+            0.5277777777777778,
+            0.95701904296875,
+            0.8022243923611111
+        ]
+    }
+]
